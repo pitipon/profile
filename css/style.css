@@ -29,13 +29,16 @@ h2 {
 }
 
 a {
-  color: #ccc;
+  color: #000;
   text-decoration: none;
+  opacity: 0.7;
+  transition: all 1s;
 }
 
 a:hover {
   color: #DD5555;
   text-decoration: none;
+  opacity: 1;
 }
 
 table {
