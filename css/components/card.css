@@ -50,3 +50,15 @@
 .fade-in.four {
   animation-delay: 1s;
 }
+
+.fade-in.five {
+  animation-delay: 1.3s;
+}
+
+.fade-in.six {
+  animation-delay: 1.6s;
+}
+
+.fade-in.seven {
+  animation-delay: 2s;
+}
